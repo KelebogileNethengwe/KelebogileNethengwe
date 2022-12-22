@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kelebogile Nethengwe</h1>
+<h1 align="center">Hello World 👋, I'm Kelebogile Nethengwe</h1>
 <h3 align="center">An aspiring python software developer</h3>
 <img align="right" alt="coding" width="400" src="https://static.wixstatic.com/media/b024d8_67ce44f5dcd642c5850714c198752fb0~mv2.gif"
 
