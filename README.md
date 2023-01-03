@@ -6,17 +6,6 @@
 
 - 👩‍🎓 I’m currently studying at the **University of Johannesburg, South Africa**
 
-<h3 align="left">🎓📚Education:</h3>
-<p align="left"><ol>
-<li>Systems Developement</li>
-<li>Agile Project Management</li>
-<li>Web app development</li>
-<li>Database Design and developement</li>
-<li>Data Analysis using Excel</li>
-<li>Microsoft 365</li>
-</ol>
-</p>
-
 <h3 align="left">👩Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kelebogile nethengwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kelebogile nethengwe" height="30" width="40" /></a>
@@ -44,19 +33,6 @@
 <h3 align="left">🧠Artificial Intelligence/Machine Learning:</h3>
 <p align="left"><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a></p>
 
-<h3 align="left">💕Interests and Hobbies:</h3>
-<p align="left">I love:
-<ol>
-<li>All things Data and Tech 📊💻📱</li>
-<li>Meeting New People 🤝</li>
-<li>Data and Tech Hackathons, meetups & events 🎇🎈</li>
-<li>Investing📈📉</li>
-<li>Art in all its mediums 🎨🎭📖🎶</li>
-<li>Blogging 💻✍</li>
-<li>Playing board games🎲🃏♟</li>
-<li>Taking walks🚶‍♀️🏞</li>
-</ol>
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kelebogilenethengwe&show_icons=true&locale=en&layout=compact" alt="kelebogilenethengwe" /></p>
 
