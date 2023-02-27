@@ -16,7 +16,6 @@ I started coding in my first year of University and have been hooked ever since.
 I specialize in C# programming but I'm always eager to learn new skills and take on new challenges.
 I'm committed to using my skills to make a positive impact in the world.
 I believe that technology has the potential to change lives and make the world a better place.
-I'm passionate about making a positive impact in the world, and I believe that the work I do as a software developer is just one way that I can help make that happen.
 I'm always eager to connect with other like-minded individuals who share my passion for technology and making a difference in the world. 
   
 <h3 align="left">If you're interested in learning more about my work or collaborating on a project,<br> feel free to reach out!</h3>
