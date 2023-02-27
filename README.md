@@ -4,16 +4,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kelebogilenethengwe&label=Profile%20views&color=0e75b6&style=flat" alt="kelebogilenethengwe" /> </p>
 
+<h3 align="left">💕Interest and Hobbies:</h3>
+<ul>
+<li>Attending tech meetups and networking events to connect with other professionals in the field and learn about new technologies and trends</li>
+<li></li>
+<li>Reading novels and self-development books to learn new perspectives and improve my understanding of the world</li>
+<li>Cooking new recipes and experimenting with different ingredients to create delicious meals and desserts</li>
+<li>Playing board games like chess to challenge my strategic thinking and problem-solving skills.</li>
+<li>Attending hackathons or coding competitions to test my skills and network with other developers.</li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
 
-<h3 align="left">About me:</h3>
-- 🌱 
-- 🌱
-- 🌱
-- 🌱
-- 🌱
 
 <h3 align="left">Connect with me:</h3>
-<h3 align="left">Connect About
 <p align="left">
 <a href="https://linkedin.com/in/kelebogile nethengwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kelebogile nethengwe" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kelebogile nethengwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kelebogile nethengwe" height="30" width="40" /></a>
