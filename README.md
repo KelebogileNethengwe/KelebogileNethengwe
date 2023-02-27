@@ -1,11 +1,19 @@
-<h1 align="center">Hello World 👋, I'm Kelebogile Nethengwe</h1>
+
+<h3 align="left">Connect About<h1 align="center">Hello World 👋, I'm Kelebogile Nethengwe</h1>
 <h3 align="center">An aspiring python software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kelebogilenethengwe&label=Profile%20views&color=0e75b6&style=flat" alt="kelebogilenethengwe" /> </p>
 
-- 🌱 I’m currently learning **Python programming,**
+
+<h3 align="left">About me:</h3>
+- 🌱 
+- 🌱
+- 🌱
+- 🌱
+- 🌱
 
 <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect About
 <p align="left">
 <a href="https://linkedin.com/in/kelebogile nethengwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kelebogile nethengwe" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kelebogile nethengwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kelebogile nethengwe" height="30" width="40" /></a>
